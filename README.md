@@ -1,5 +1,8 @@
-## Hi there 👋
-大家好
+ ##Hi I'm Johnny
+ 
+ ##About Me
+ Birthday:1996/07/10
+
 <!--
 **johnny147852/johnny147852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
